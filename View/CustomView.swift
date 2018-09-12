@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CustomView: UIView {
+public class CustomView: UIView {
     
 //    var aa :String?
 //    var bb :Int?
